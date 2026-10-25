@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: beige;
+}
+
+.touch {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding-top: 100px;
+}
+
+.left {
+  padding-top: 50px;
+  width: 300px;
+  background-color: rgb(26, 59, 176);
+  color: white;
+  border-radius: 10px;
+}
+.address {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.contact-details {
+   margin-left: ;
+}
+.icon{
+   margin-left: 20px;
+   padding: 10px;
+   background-color:white ;
+   color: black;
+   border-radius: 50%;
+}
+.para {
+  margin-left: 30px;
+}
+
+.right {
+  width: 350px;
+  height: 500px;
+  background-color: rgb(114, 143, 224);
+  color: white;
+  border-radius: 10px;
+
+}
+
+.txtt{
+   margin: 30px;
+}
+.btns {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+.btn1 {
+  margin: 30px 30px 30px 30px;
+  padding: 15px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  background-color: rgb(27, 89, 189);
+}
+.btn2 {
+  padding: 15px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  background-color: rgb(27, 89, 189);
+}
